@@ -7,6 +7,16 @@
 
 <hr>
 
+
+📍 [Add your community name, date, venue & sign-up link here]
+
+We're making our first open-source contribution with 169Pi — an open-source AI lab building the best local & offline first models out of India for the world! Come build with us.
+
+🧱 Make your first contribution with #GoodFirstAlpie
+⭐ Star the repo · 🔀 open your first PR · 🌱 contribute to open source
+
+#GoodFirstAlpie #Hacktoberfest #OpenSource #169Pi
+
 <p align="center">
   <a href="https://169pi.ai/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐%20Website-169Pi%20AI-blue" alt="Website"></a>
   <a href="https://huggingface.co/169Pi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-169Pi%20AI-yellow" alt="Hugging Face"></a>
